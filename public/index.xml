@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>O Blog da Enxelñaría Química en Vigo</title>
-    <link>http://anxosanchez.github.io/</link>
+    <link>http://anxosanchez.github.io/cheel/</link>
     <description>Recent content on O Blog da Enxelñaría Química en Vigo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://anxosanchez.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://anxosanchez.github.io/cheel/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
