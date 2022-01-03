@@ -5,6 +5,16 @@
     <link>http://anxosanchez.github.io/cheel/</link>
     <description>Recent content on O Blog da Enxelñaría Química en Vigo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://anxosanchez.github.io/cheel/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="http://anxosanchez.github.io/cheel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://anxosanchez.github.io/cheel/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://anxosanchez.github.io/cheel/about/</guid>
+      <description>Este blog está deseñado e mantido por Anxo Sánchez, profesor da Área de Enxeñaría Química da Universidade de Vigo.</description>
+    </item>
+    
   </channel>
 </rss>

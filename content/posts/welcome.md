@@ -1,12 +1,13 @@
 ---
 title: "Welcome"
-date: 2022-01-03T17:29:03+01:00
+date: 2021-04-29T17:03:12+02:00
 draft: true
-toc: false
+katex: true
 images:
 tags:
   - untagged
 ---
 
 # Welcome!
+
 
