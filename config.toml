@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://anxosanchez.github.io/cheel/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "O Blog da Enxelñaría Química en Vigo"
 theme = "hello-friend-ng"
 
