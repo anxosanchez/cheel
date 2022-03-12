@@ -1,6 +1,6 @@
 baseURL = "http://anxosanchez.github.io/cheel/"
 languageCode = "en-us"
-title = "O Blog da Enxelñaría Química en Vigo"
+title = "O Blog da Enxeñaría Química en Vigo"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
